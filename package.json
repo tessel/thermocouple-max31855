@@ -1,11 +1,12 @@
 {
   "name": "thermocouple-max31855",
   "version": "1.0.0",
-  "description": "",
+  "description": "Read data from the thermocouple amplifier MAX31855.",
+  "repository": "tessel/thermocouple-max31855",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Tim Cameron Ryan <tim@technical.io>",
   "license": "ISC"
 }

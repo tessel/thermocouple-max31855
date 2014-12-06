@@ -1,6 +1,6 @@
 {
   "name": "thermocouple-max31855",
-  "version": "1.0.0",
+  "version": "v1.0.1",
   "description": "Read data from the thermocouple amplifier MAX31855.",
   "repository": "tessel/thermocouple-max31855",
   "main": "index.js",

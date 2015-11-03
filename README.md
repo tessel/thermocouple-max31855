@@ -75,6 +75,9 @@ From the thermocouple amplifier to Tessel's Port bank:
   * DO > 3
   * CS > 5
   * CLK > 2
+  
+  Note: These connections are in the same location as they are on the Tessel 1. You can also see the original
+    labels on the underside of the T2.
  
 ## License
 
